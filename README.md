@@ -1,5 +1,5 @@
 # 📊 Chat with Your CSV Data  
-[🚀 Demo](https://github.com/unifyai/demos/assets/43880587/aba328d2-4c9e-4cd4-a6aa-82657e806145)  
+[🚀 Demo](https://github.com/muzakkirhussain011/unifyai_demos/blob/main/videos/Chat%20with%20CSV%20-%20Google%20Chrome%202024-10-19%2009-38-56.mp4)  
 
 <video width="640" height="480" autoplay>
   <source src="../../../../_static/chat_with_csv.mp4" type="video/mp4">
