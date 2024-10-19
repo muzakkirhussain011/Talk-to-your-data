@@ -68,7 +68,7 @@ if uploaded_file:
         try:
             response = client.generate(
                 user_message=f"{df}\n{user_query}",
-                system_message="You are an expert data analyst. Provide insights about the dataset."
+                system_message="You are an expert data analyst. Provide insights about the dataset. Please provide the answer not the python code."
             )
             st.write("🤖 **Response:**")
             st.write(response)
