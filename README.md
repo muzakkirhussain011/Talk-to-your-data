@@ -9,7 +9,7 @@ Your browser does not support the video tag.
 </video>
 
 ✨ A live version of the application is hosted on Streamlit! Try it out yourself using the link below:  
-[🌐 Chat with Your CSV on Streamlit](https://your-streamlit-app-url-here)  
+[🌐 Chat with Your CSV on Streamlit](https://talk-to-your-data-unifyai.streamlit.app/)  
 
 ---
 
