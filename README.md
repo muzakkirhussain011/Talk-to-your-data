@@ -27,7 +27,7 @@ The main goal of this app is to provide an intuitive and interactive way for use
 - **Streamlit**: 🌐 For building the easy-to-use web interface.  
 - **Unify AI**: 🤖 Powers the backend LLMs that respond to your queries in real-time.  
 - **Pandas**: 🐼 For manipulating and analyzing CSV data.  
-- **Matplotlib**: 📈 For generating visualizations like histograms.  
+ 
 
 ---
 
