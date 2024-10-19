@@ -1,6 +1,8 @@
 # 📊 Chat with Your CSV Data  
 [🚀 Demo](https://github.com/muzakkirhussain011/unifyai_demos/blob/main/videos/Chat%20with%20CSV%20-%20Google%20Chrome%202024-10-19%2009-38-56.mp4)  
 
+https://github.com/user-attachments/assets/1d4134cc-3855-433e-a789-d7764f25a7f8
+
 <video width="640" height="480" autoplay>
   <source src="../../../../_static/Talk_To_Your_Data.mp4" type="video/mp4">
 Your browser does not support the video tag.
