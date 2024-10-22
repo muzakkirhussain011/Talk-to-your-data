@@ -36,8 +36,7 @@ The main goal of this app is to provide an intuitive and interactive way for use
 2. **📂 Data Upload**: Upload a CSV file and preview it in the app.  
 3. **💬 Query Interaction**:  
    - Ask questions about your data.  
-   - The LLM responds with **insights** or **visualizations**.  
-   - If a histogram is requested, select a specific column to visualize 📊.  
+   - The LLM responds with **insights** 
 
 ---
 
@@ -48,17 +47,16 @@ This app showcases how **AI can enhance data analysis** by making it simple and 
 
 ### 🧠 Key Concepts  
 - **Natural Language Processing**: Enables the LLMs to understand and respond naturally to your questions.  
-- **Data Visualization**: Easily generate histograms and charts to interpret your results visually.  
 
 ---
 
 ## 📂 Repository and Deployment  
 
 ### 🔍 Access the Source Code  
-The source code for **Chat with Your CSV Data** is available [here](https://github.com/your-github-repo-link).  
+The source code for **Chat with Your CSV Data** is available [here](https://github.com/muzakkirhussain011/Talk-To-Your-Data/).  
 
 ### 🌐 Live Application  
-Access the live app here: [Chat with Your CSV on Streamlit](https://your-streamlit-app-url-here)  
+Access the live app here: [Chat with Your CSV on Streamlit](https://talk-to-your-data-unifyai.streamlit.app/)  
 
 ---
 
@@ -76,7 +74,7 @@ pip install -r requirements.txt
 
 🚀 Launch the Application:
 ```bash
-streamlit run main.py
+streamlit run app.py
 ```
 This command will start the Streamlit server, and you’ll see a URL (usually `http://localhost:8501`) where you can access the app in your browser.
 
@@ -87,6 +85,4 @@ This command will start the Streamlit server, and you’ll see a URL (usually `h
 |-----------|-----------------------------------------|  
 | Syed Muzakkir Hussain | [muzakkirhussain011](https://github.com/muzakkirhussain011) |
 
----
 
-This version is visually engaging with the right touch of emojis 🎉. Feel free to modify or add more emojis to your liking!
